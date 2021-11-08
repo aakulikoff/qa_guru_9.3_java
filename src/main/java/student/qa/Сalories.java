@@ -5,7 +5,7 @@ public class Сalories {
     double calories;
     int gram;
 
-    public Сalories (String name, int calories, int gram){
+    public Сalories (String name, double calories, int gram){
         this.name = name;
         this.calories = calories;
         this.gram = gram;

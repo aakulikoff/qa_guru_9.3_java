@@ -5,10 +5,10 @@ public class Breakfast {
 
         System.out.println("Привет, я очень плотно позавтракал:");
 
-        Сalories bread = new Сalories("Хлеб", 8, 200);
-        Сalories avocado = new Сalories("Авокадод", 15, 150);
-        Сalories omelette = new Сalories("Омлет", 5, 300);
-        Сalories watermelon = new Сalories("Арбуз", 12, 500);
+        Сalories bread = new Сalories("Хлеб", 0.8, 200);
+        Сalories avocado = new Сalories("Авокадод", 1.5, 150);
+        Сalories omelette = new Сalories("Омлет", 0.5, 300);
+        Сalories watermelon = new Сalories("Арбуз", 1.2, 500);
 
         bread.sayDiet();
         avocado.sayDiet();
