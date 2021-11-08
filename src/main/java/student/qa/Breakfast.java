@@ -7,7 +7,7 @@ public class Breakfast {
 
         Сalories bread = new Сalories("Хлеб", 8, 200);
         Сalories avocado = new Сalories("Авокадод", 15, 150);
-        Сalories omelette = new Сalories("Омлет", 12, 300);
+        Сalories omelette = new Сalories("Омлет", 4, 300);
         Сalories watermelon = new Сalories("Арбуз", 12, 500);
 
         bread.sayDiet();
