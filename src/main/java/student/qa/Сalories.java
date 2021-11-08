@@ -11,7 +11,7 @@ public class Сalories {
         this.gram = gram;
     }
 
-    void sayDiet() {System.out.println("Название:" + name +",калории" + " " + calories * gram);
+    void sayDiet() {System.out.println("Название:" + name +",калории:" + " " + calories * gram);
     }
 }
 
